@@ -1,0 +1,86 @@
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    background-color: #30E0C9;
+}
+
+.carousel-control {
+    background-color: none;
+    color: black;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+.carousel{
+    background: white;
+    margin-top: 20px;
+}
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
+
+.bs-example{
+	margin: 20px;
+}
+
+.gameImage {
+	margin: 0 auto;
+}
+
+.gameName{
+	text-align: center;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	letter-spacing: 20px;
+}
+
+small {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.panel-heading {
+  text-shadow: 0px 1px 1px #000;
+  text-align: center;
+  font-size: 20px;
+}
+.vertical-center {
+  min-height: 100%;
+  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh;
+  /* These two lines are counted as one :-)       */
+  display: flex;
+  align-items: center;
+}
+#submitButton {
+  text-align: center;
+}
+#orderForm div {
+  margin-top: 12px;
+}
+.text-success {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 5px;
+}
+.renterName, .catType small, .catGender small{
+  color: #6DB733;
+  text-shadow: 0px 1px 1px #000;
+  font-style: italic;
+  letter-spacing: 5px;
+}
+#paws {
+  margin-left:15px;
+}
+div#orderForm{
+  margin-top: 2%;
+}
+html,body{
+    height: 100%
+}
