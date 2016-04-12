@@ -1,0 +1,45 @@
+[{
+  "color": "Pink (on yellow)",
+  "size": "Adults",
+  "image": "images/66.jpg",
+  "comments": [{
+    "username": "HomerSimpson",
+    "comment": "i love these socks for obvious reasons"
+  }, {
+    "username": "Stewie",
+    "comment": "same"
+  }, {
+    "username": "Lisa",
+    "comment": "these keep me nice and warm"
+  }]
+}, 
+ {
+  "color": "Pink (on red)",
+  "size": "Teens",
+  "image": "images/33.jpg",
+  "comments": [{
+    "username": "LDR",
+    "comment": "fab!"
+  }, {
+    "username": "pea_brain",
+    "comment": "i want em"
+  }, {
+    "username": "Brian",
+    "comment": "lol"
+  }]
+}, 
+ {
+  "color": "Pink (on pink)",
+  "size": "6-12 months",
+  "image": "images/11.jpg",
+  "comments": [{
+    "username": "scors",
+    "comment": "looks cute on my bbg"
+  }, {
+    "username": "radiostar",
+    "comment": "Nice"
+  }, {
+    "username": "luvsox01",
+    "comment": "want these for my niece"
+  }]
+}]
