@@ -30,9 +30,8 @@ $(document).ready(function() {
 
                         $.each(data, function(index, item) {
                                 html += '<div class="col-xs-12 col-md-4 jsonCat">' +
-                                    '<div class="gameName">' + item.name + '</div>' +
-                                    '<div class="gameGenre"><small>Genre </small>' + item.genre + '</div>' +
-                                    '<div class="gameType"><small>Type </small>' + item.type + '</div>' +
+                                    '<div class="gameName">' + item.color + '</div>' +
+                                    '<div class="gameGenre"><small>Genre </small>' + item.size + '</div>' +
                                     '<img class="gameImage" src="' + item.image + '"/>' +
                                     //deleted commentsContainer
                                     '<div class="panel panel-default">' + //added
@@ -41,17 +40,8 @@ $(document).ready(function() {
                                         html += '<div class="panel-body">' + //added
                                             '<div class="renterName"><small>' + i.username + '</small></div>' +
                                             '<div class="renterComment">' + i.comment + '</div>' +
-                                            '<div class="renterStars">';
+                                            ;
 
-                                        for (var j = 1; j <= 5; j++) {
-
-                                            if (j <= i.stars) {
-                                                html += '<img src="images/fullStar.png"/>';
-                                            } else {
-                                                html += '<img src="images/emptyStar.png"/>';
-                                            }
-                                        }
-                                        html += '</div>' + //end stars
                                             '</div>'; //panel body
                                     }); //each comment
 
