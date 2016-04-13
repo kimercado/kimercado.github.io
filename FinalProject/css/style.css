@@ -1,6 +1,6 @@
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
-    background-color: #30E0C9;
+    background-color: #2365f1;
 }
 
 .carousel-control {
@@ -24,20 +24,27 @@
 	margin: 20px;
 }
 
-.gameImage {
+.image{
 	margin: 0 auto;
 }
 
-.gameName{
+.name{
 	text-align: center;
 	font-weight: bold;
 	font-size: 24px;
+  color: #4f0783
 }
 
 h1{
 	text-align: center;
 	font-size: 50px;
 	letter-spacing: 20px;
+  background-color: #8c4bff;
+}
+
+p{
+  text-align: center;
+  color: green;
 }
 
 small {
@@ -70,7 +77,7 @@ small {
   margin-top: 5px;
 }
 .renterName, .catType small, .catGender small{
-  color: #6DB733;
+  color: #f6b188;
   text-shadow: 0px 1px 1px #000;
   font-style: italic;
   letter-spacing: 5px;
@@ -83,4 +90,60 @@ div#orderForm{
 }
 html,body{
     height: 100%
+}
+
+.blinking-cursor {
+  font-weight: 100;
+  font-size: 30px;
+  color: #2E3D48;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
 }
