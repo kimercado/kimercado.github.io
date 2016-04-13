@@ -1,6 +1,7 @@
 [
 {
 	"name": "Pink (on yellow)",
+	"genre": "Adults",
 	"image":"images/66.jpg",
 	"comments" : [
 	{
@@ -17,45 +18,37 @@
 	},
 	{
 	"name": "Pink (on red)",
-	"genre":"Pink (on red)",
-	"type":"Game",
-	"image":"images/jPic2.jpg",
+	"genre": "Teens",
+	"image":"images/33.jpg",
 		"comments" : [
 		{
-	"username":"BelleSparks",
-	"stars": 1,
-	"comment":"Did not really enjoy. The game was too slow and kepty lagging. When I would try to click on an object, I would have to click it at least 20 times before it registered. I didn't even make it though the trail. "
+	"username":"LDR",
+	"comment":"fab!"
 	},
 
-	{"username":"x.x.droplet.x.x",
-	"stars": 5,
-	"comment":"Loved the fact that we got to play both of the characters, the princess and the prince and they put an interesting twist on the Beauty and the Beast tale. It was really fun and I enjoyed playing it.  "
+	{"username":"pea_brain",
+	"comment":"i want em"
 	},{
-	"username":"fictionisBetter",
-	"stars": 1,
-	"comment":"Too slow and didn't work I did not enjoy it."}
+	"username":"Brian",
+	"comment":"LOL"}
 					]
 		},
 
 		{
-	"name": "Haunted Hotel 3: Lonely Dream Collector's Edition HD",
-	"genre":"Adventure, Horror, Mystery",
-	"type":"Game",
-	"image":"images/JPic4.jpg",
+	"name": "Pink (on pink)",
+	"genre":"6-12 months",
+	"image":"images/11.jpg",
 	"comments" : [
 	{
-	"username":"whiterose123",
-	"stars": 2,
-	"comment":"This game had a lot of bugs. It stoped working when I got to the hackers room so I had to give up. I did not want to start the game over from the beginning."
+	"username":"scors",
+	"comment":"looks cute on my bbg"
 	},
 	{
-	"username":"bloodrose123",
-	"stars": 3,
-	"comment":"Not the best game that Big Fish Games has come up with. The inventory bar kept disappering when I wasn't using objects."
+	"username":"radiostar",
+	"comment":"Nice"
 		},{
-	"username":"onlinedatinggamer",
-	"stars": 4,
-	"comment":"Such a great game. The graphics were beautiful and I really enjoyed the story line. The game was challenging and fun so It took some time to complete."
+	"username":"luvsox01",
+	"comment":"want these for my niece"
 			}
 					]
 			}]
