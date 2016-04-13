@@ -1,7 +1,6 @@
 [
 {
-	"color": "Pink (on yellow)",
-	"size":"Horror, Adventure",
+	"name": "Pink (on yellow)",
 	"image":"images/66.jpg",
 	"comments" : [
 	{
@@ -11,15 +10,14 @@
 	"username": "Stewie",
 	"comment": "same"
 			},{
-	"username": "SonicPlayer",
-	"stars": 3,
-	"comment": "It was alright. The game was fun but would have been better if the game didn't keep crashing."
+	"username": "Lisa",
+	"comment": "these keep me nice and warm."
 				}
 				]
 	},
 	{
-	"name": "Dark Romance Heart of the Beast Collector's Edition",
-	"genre":"Romance, Adventure, Fairy Tale",
+	"name": "Pink (on red)",
+	"genre":"Pink (on red)",
 	"type":"Game",
 	"image":"images/jPic2.jpg",
 		"comments" : [
