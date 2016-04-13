@@ -1,18 +1,15 @@
 [
 {
-	"name": "Grim Tales: The Legacy Collector's Edition HD",
-	"genre":"Horror, Adventure",
-	"type":"Game",
-	"image":"images/jPic1.JPG",
+	"color": "Pink (on yellow)",
+	"size":"Horror, Adventure",
+	"image":"images/66.jpg",
 	"comments" : [
 	{
-	"username": "OnlineGamer",
-	"stars": 5,
-	"comment": "I'm a big fan of puzzle adventures and this onw was rather long, varies and had a great story. Maintaing the fun experience is difficult task in this  style of game yet, they have absolutly nailed it. Well worth the money and more enjoyable than any other I've played"
+	"username": "HomerSimpson",
+	"comment": "i love these socks for obvious reasons"
 		},{
-	"username": "LoveComputerGames",
-	"stars": 1,
-	"comment": "I bought this game without trying the trail and I have to say that I am very disapointed. The game keeps crashing the second I try to open it."
+	"username": "Stewie",
+	"comment": "same"
 			},{
 	"username": "SonicPlayer",
 	"stars": 3,

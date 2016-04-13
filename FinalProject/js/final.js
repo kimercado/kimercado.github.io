@@ -40,7 +40,6 @@ $(document).ready(function() {
                                         html += '<div class="panel-body">' + //added
                                             '<div class="renterName"><small>' + i.username + '</small></div>' +
                                             '<div class="renterComment">' + i.comment + '</div>' +
-                                            ;
 
                                             '</div>'; //panel body
                                     }); //each comment
