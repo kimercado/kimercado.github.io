@@ -43,3 +43,71 @@
     "comment": "want these for my niece"
   }]
 }]
+
+[
+{
+	"name": "Grim Tales: The Legacy Collector's Edition HD",
+	"genre":"Horror, Adventure",
+	"type":"Game",
+	"image":"images/jPic1.JPG",
+	"comments" : [
+	{
+	"username": "OnlineGamer",
+	"stars": 5,
+	"comment": "I'm a big fan of puzzle adventures and this onw was rather long, varies and had a great story. Maintaing the fun experience is difficult task in this  style of game yet, they have absolutly nailed it. Well worth the money and more enjoyable than any other I've played"
+		},{
+	"username": "LoveComputerGames",
+	"stars": 1,
+	"comment": "I bought this game without trying the trail and I have to say that I am very disapointed. The game keeps crashing the second I try to open it."
+			},{
+	"username": "SonicPlayer",
+	"stars": 3,
+	"comment": "It was alright. The game was fun but would have been better if the game didn't keep crashing."
+				}
+				]
+	},
+	{
+	"name": "Dark Romance Heart of the Beast Collector's Edition",
+	"genre":"Romance, Adventure, Fairy Tale",
+	"type":"Game",
+	"image":"images/jPic2.jpg",
+		"comments" : [
+		{
+	"username":"BelleSparks",
+	"stars": 1,
+	"comment":"Did not really enjoy. The game was too slow and kepty lagging. When I would try to click on an object, I would have to click it at least 20 times before it registered. I didn't even make it though the trail. "
+	},
+
+	{"username":"x.x.droplet.x.x",
+	"stars": 5,
+	"comment":"Loved the fact that we got to play both of the characters, the princess and the prince and they put an interesting twist on the Beauty and the Beast tale. It was really fun and I enjoyed playing it.  "
+	},{
+	"username":"fictionisBetter",
+	"stars": 1,
+	"comment":"Too slow and didn't work I did not enjoy it."}
+					]
+		},
+
+		{
+	"name": "Haunted Hotel 3: Lonely Dream Collector's Edition HD",
+	"genre":"Adventure, Horror, Mystery",
+	"type":"Game",
+	"image":"images/JPic4.jpg",
+	"comments" : [
+	{
+	"username":"whiterose123",
+	"stars": 2,
+	"comment":"This game had a lot of bugs. It stoped working when I got to the hackers room so I had to give up. I did not want to start the game over from the beginning."
+	},
+	{
+	"username":"bloodrose123",
+	"stars": 3,
+	"comment":"Not the best game that Big Fish Games has come up with. The inventory bar kept disappering when I wasn't using objects."
+		},{
+	"username":"onlinedatinggamer",
+	"stars": 4,
+	"comment":"Such a great game. The graphics were beautiful and I really enjoyed the story line. The game was challenging and fun so It took some time to complete."
+			}
+					]
+			}]
+			
